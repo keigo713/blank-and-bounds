@@ -1,6 +1,5 @@
 {
   "buildCommand": "",
   "outputDirectory": "MWR",
-  "framework": "static",
   "installCommand": ""
 }
