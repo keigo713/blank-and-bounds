@@ -1,5 +1,6 @@
 {
-  "buildCommand": "echo 'Static site'",
+  "buildCommand": "",
   "outputDirectory": "MWR",
-  "framework": "static"
+  "framework": "static",
+  "installCommand": ""
 }
